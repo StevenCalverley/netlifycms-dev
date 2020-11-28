@@ -1,6 +1,7 @@
 ---
 title: My Test Blog
 date: 2020-11-28T19:52:41.244Z
+slug: my-test-blog
 description: Some cool descritpion
 ---
 Some cool body.
